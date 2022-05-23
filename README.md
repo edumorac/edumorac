@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @edumorac
-- 👀 I’m interested in fron-end development
+- 👀 I’m interested in front-end development
 - 🌱 I’m currently learning HTML, CSS, and JavaScript
 - 💞️ I’m looking to collaborate on web develpment
 
