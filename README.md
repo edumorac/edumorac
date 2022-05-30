@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @edumorac
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning HTML, CSS, and JavaScript
+- 🌱 I’m currently improving my skills in HTML, CSS, Bootstrap, and JavaScript
 - 💞️ I’m looking to collaborate on web develpment
 
 <!---
